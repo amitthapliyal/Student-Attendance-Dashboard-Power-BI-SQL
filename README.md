@@ -36,30 +36,29 @@ Total Students → 100
 Gate Attendance → 61
 Class Attendance → 71
 Skipped Gate → 10 (students entered illegally, bypassing the main gate
-![1 September Attendance](images/1dashboard.png)
+![1 September Attendance](1_dashboard.png)
 
 ### 📅 2nd September 2025
 Total Students → 100
 Gate Attendance → 73
 Class Attendance → 81
 Skipped Gate → 8
-![2 September Attendance](images/2dashboard.png)
+![2 September Attendance](2_dashboard.png)
 
 ### 📅 3rd September 2025
 Total Students → 100
 Gate Attendance → 65
 Class Attendance → 84
 Skipped Gate → 19
-![3 September Attendance](images/3dashboard.png)
+![3 September Attendance](3_dashboard.png)
 
 ### 📅 4th September 2025
 4th September 2025
 Total Students → 100
 Gate Attendance → 99
 Class Attendance → 100
-
 Skipped Gate → 1
-![4 September Attendance](images/4dashboard.png)
+![4 September Attendance](4_dashboard.png)
 
 =>Trend Summary:
 Skipped students fluctuated (10 → 8 → 19 → 1).
